@@ -1,11 +1,11 @@
-/*************************************************************
-** Name:		Abbie										**
-** Date:		May 2nd, 2019								**
-** Class Name:	ICS3UTestClass.java							**
+/*****************************************************************
+** Name:	Abbie						**
+** Date:	May 2nd, 2019					**
+** Class Name:	ICS3UTestClass.java				**
 ** Description:	This is a class made for testing things 	**
-**				such as prints with formatting, and args	**
-**														    **
-**************************************************************/
+**		such as prints with formatting, and args	**
+**								**
+******************************************************************/
 package package1;
 
 public class ICS3UTestClass {
